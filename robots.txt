@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://cristhian-hernandez.github.io/sitemap.xml
