@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://cristhian-hernandez.github.io/sitemap.xml
+Sitemap: https://cristhian-hernandez.github.io/sitemap.xml
